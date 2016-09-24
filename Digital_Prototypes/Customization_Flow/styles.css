@@ -1,0 +1,66 @@
+h1
+{
+	display: none;
+}
+
+#background, #background2
+{
+	max-width: 1000px;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+}
+
+#background2
+{
+	display: none;
+}
+
+.check
+{
+	display: none;
+	height: 13px;
+	left: 349px;
+	position: absolute;
+	width: 13px;
+}
+
+#check1
+{
+	top: 700px;
+}
+
+#check2
+{
+	top: 728px;
+}
+
+#check3
+{
+	top: 756px;
+}
+
+#check4
+{
+	top: 783px;
+}
+
+#check5
+{
+	top: 811px;
+}
+
+#check6
+{
+	top: 839px;
+}
+
+#check7
+{
+	top: 866px;
+}
+
+#check8
+{
+	top: 894px;
+}

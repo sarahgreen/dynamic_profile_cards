@@ -1,0 +1,88 @@
+h1
+{
+	display: none;
+}
+
+#background
+{
+	max-width: 1000px;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+}
+
+#ruwim, #techfreak, #puppy, #slow, #slawootsky, #elaine, #elaine2, #walnut, #pawel, #blue, #chantal, #devin
+{
+	width: 285px;
+	position: absolute;
+	display: none;
+	left: 519px;
+	top: 252px;
+}
+
+#techfreak
+{
+	left: 538px;
+	top: 297px;
+}
+
+#puppy
+{
+	left: 497px;
+	top: 348px;
+}
+
+
+#slow
+{
+	left: 520px;
+	top: 381px;
+}
+
+#slawootsky
+{
+	left: 521px;
+	top: 425px;
+}
+
+#elaine
+{
+	left: 561px;
+	top: 533px;
+}
+
+#elaine2
+{
+	left: 561px;
+	top: 645px;
+}
+
+#walnut
+{
+	top: 987px;
+	left: 179px;
+}
+
+#pawel
+{
+	top: 830px;
+	left: 95px;
+}
+
+#blue
+{
+	top: 1065px;
+	left: 200px;
+}
+
+#chantal
+{
+	top: 865px;
+	left: 290px;
+}
+
+#devin
+{
+	top: 987px;
+	left: 553px;
+}

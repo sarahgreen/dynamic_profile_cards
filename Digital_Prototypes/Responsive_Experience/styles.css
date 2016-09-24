@@ -1,0 +1,74 @@
+h1
+{
+	display: none;
+}
+
+#blank1, #blank2
+{
+	height: 135px;
+	width: 500px;
+	background-color: white;
+	position: absolute;
+	margin: -20px;
+}
+
+#blank2
+{
+	margin-top: 581px;
+}
+
+#background, #before, #beforeBottom, #after, #topBar, #bottomBar
+{
+	width: 300px;
+	position: absolute;
+	padding: 0;
+	left: 20px;
+	top: 83px;
+	display: block;
+}
+
+#background
+{
+	width: 340px;
+	left: 0;
+	top: 0;
+}
+
+#before
+{
+	top: 134px;
+}
+
+#beforeBottom
+{
+	top: 478px;
+}
+
+#after
+{
+	width: 250px;
+	left: 40px;
+	top: 359px;
+}
+
+#line1, #line2
+{
+	top: 459px;
+	left: 32px;
+	position: absolute;
+}
+
+#line2
+{
+	left: 299px;
+}
+
+#topBar, #bottomBar {
+	width: 300px;
+}
+
+#bottomBar
+{
+	left: 19px;
+	top: 576px;
+}
